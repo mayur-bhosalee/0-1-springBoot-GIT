@@ -7,7 +7,20 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootGitApplication {
 
 	public static void main(String[] args)
-	{ String name="mayur bhosale"; String name="payal bhosdale";
+
+	{ 
+    String name="mayur bhosale"; String name="payal bhosdale";
+
+
+	{
+    
+    
+    
+    String name="mayur bhosale";
+
+	{
+		
+
 		
 		SpringApplication.run(SpringBootGitApplication.class, args);
 	}
