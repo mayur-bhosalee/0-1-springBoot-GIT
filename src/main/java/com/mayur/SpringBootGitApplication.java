@@ -8,7 +8,6 @@ public class SpringBootGitApplication {
 
 	public static void main(String[] args)
 	{
-		final String url="http://localost";
 		
 		SpringApplication.run(SpringBootGitApplication.class, args);
 	}
