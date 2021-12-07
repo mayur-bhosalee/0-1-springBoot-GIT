@@ -8,7 +8,7 @@ public class SpringBootGitApplication {
 
 	public static void main(String[] args)
 	{
-		String url="https://github.com/mayur-bhosalee/0-1-springBoot-GIT.git";
+		String url="https://github.com/mayur-bhosalee/0-1-springBoot-GIT.git";String name="mayur";
 		
 		SpringApplication.run(SpringBootGitApplication.class, args);
 	}
